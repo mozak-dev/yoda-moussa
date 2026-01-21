@@ -55,8 +55,7 @@ Les données ont été nettoyées, transformées et analysées à l’aide de **
 - Aide à la prise de décision pour améliorer les ventes
 
 🔗 **Lien du projet**
-👉 https://github.com/mozak-dev/pizza-sales-analysis/tree/main/pizzeria-sales-analysis-powerBi
-
+👉 (https://github.com/mozak-dev/pizza-sales-analysis/tree/main/pizzeria-sales-analysis-powerBi)
 ---
 
 ## 📚 Formation
