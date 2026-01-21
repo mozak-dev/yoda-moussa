@@ -1,8 +1,12 @@
 
+title: "YODA MOUSSA JUNIOR | Data Analyst"
+description: "Portfolio Data Analyst - Power BI, SQL, Python"
 
-title: "YODA MOUSSA JUNIOR "
-Logo : img/nny-jpg
-description: "Portfolio analyst  - power BI , SQL,  PYTHON"
+theme: jekyll-theme-minimal
+
+logo: img/ym.jpg
+
 show_downloads: true
-thene: jekyll-thene-mininal
-Lang: tr
+
+lang: fr-FR
+
